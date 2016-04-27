@@ -13,7 +13,7 @@
 *  * / Ends a block comment (remove spaces)
 ******************************************************/
 
-// This is a line comment Everything after // is considered a line comment. 
+// This is a line comment Everything after // is considered a comment. 
 
 
 // Setup is ran at the beginning of the program. 
