@@ -1,5 +1,5 @@
-int ledPin = 13;
-int delayTime = 1000;
+const int ledPin = 13;
+const int delayTime = 1000;
 
 void blink_led_on_pin(int pinToBlink)
 {

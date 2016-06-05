@@ -7,8 +7,8 @@
 **********************************************/
 
 
-int ledPin = 13; // Make "ledPin" variable and set it to "13"
-int delayTime = 1000; // Make "delayTime" variable
+const int ledPin = 13; // Make "ledPin" variable and set it to "13"
+const int delayTime = 1000; // Make "delayTime" variable
 void setup()
 {
   pinMode(ledPin, OUTPUT);
